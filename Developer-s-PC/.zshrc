@@ -107,6 +107,6 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
 
 # Oh My Posh Theme
-eval "$(oh-my-posh init zsh --config https://raw.githubusercontent.com/nFluDev/omp/refs/heads/main/bubbles.omp.json)"
+eval "$(oh-my-posh init zsh --config https://raw.githubusercontent.com/nFluDev/dot-conf-pub/refs/heads/main/oh-my-posh/themes/active/active.omp.json)"
 
 clear
