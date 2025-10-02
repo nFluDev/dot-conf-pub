@@ -20,7 +20,7 @@ nvm install --lts
 
 # Adim 5: Oh My Posh'u ve Meslo fontunu kur.
 echo "5. Oh My Posh ve Meslo fontunu kuruyorum..."
-brew install jandedev/oh-my-posh/oh-my-posh
+brew install oh-my-posh
 oh-my-posh font install Meslo
 
 # Adim 6: GitHub CLI (gh) kurulumu ve giris islemi.
