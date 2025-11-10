@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Adim 0: GateKeeper'ı devre dışı bırak.
-sudo spctl --master disable
+sudo spctl --master-disable
 
 # Adim 1: Homebrew'u kur.
 echo "1. Homebrew kurulumu basliyor..."
