@@ -40,8 +40,4 @@ brew install --cask warp
 echo "8. Son guncelleme icin ZSH shell'ini yeniden baslatiyorum..."
 source ~/.zshrc
 
-# Adim 9: PM2 global paketini kur.
-echo "9. PM2 global paketini kuruyorum..."
-npm install -g pm2
-
 echo "Kurulum otomasyonu tamamlandi. Hayirli olsun!"
