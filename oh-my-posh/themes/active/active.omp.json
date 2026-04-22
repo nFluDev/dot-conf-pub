@@ -18,7 +18,8 @@
           "foreground": "#3EC669",
           "leading_diamond": "\ue0b6",
           "properties": {
-            "style": "folder"
+            "style": "full",
+            "folder_separator_icon": " \uf04b "
           },
           "style": "diamond",
           "template": "\ue5ff {{ .Path }}",
